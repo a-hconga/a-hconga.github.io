@@ -1,20 +1,20 @@
 // EDIT YOUR PORTFOLIO DETAILS HERE. Replace the sample entries with your own.
 const PORTFOLIO = {
   profile: {
-    name: "Mewtwo",
-    brand: "Mewtwo.github.io",
-    handle: "mewtwo",
+    name: "Adam Hoxhaj",
+    brand: "AdamHoxhaj.github.io",
+    handle: "Adam Hoxhaj",
     discipline: "Mechanical Engineering",
-    role: "Aerospace",
+    role: "Robotics",
     availability: "Open to mechanical engineering opportunities",
     summary: "I turn engineering concepts into practical designs through CAD, analysis, and hands-on problem solving.",
     terminalTagline: "Design carefully. Build reliably.",
-    contactPrompt: "Let's build something that works.",
+    contactPrompt: "Let's build something revolutionary.",
     contactIntro: "I’m interested in mechanical engineering internships and roles. Reach me through the links below.",
     pageDescription: "Mechanical engineering portfolio featuring design skills, experience, projects, and contact information.",
     contacts: [
-      { label: "LinkedIn", value: "linkedin.com/in/mewtwo", url: "https://www.linkedin.com/in/mewtwo" },
-      { label: "GitHub", value: "github.com/mewtwo", url: "https://github.com/mewtwo" },
+      { label: "LinkedIn", value: "linkedin.com/in/mewtwo", url: "https://www.linkedin.com/in/adam-hoxhaj-b25477327/" },
+      { label: "GitHub", value: "github.com/mewtwo", url: "https://github.com/a-hconga" },
     ],
   },
   sections: {
